@@ -42,9 +42,9 @@ const CommonConfig = {
     // Whether to add the free Palestine screen at the start
     addFreePalestine: false,
     // Name that will be displayed at the top
-    name: 'fawad ali',
+    name: 'Marcus McCown',
     // Tagline that will be displayed after the name
-    tagline: 'software engineer',
+    tagline: 'Global Sourcing Trailblazer',
     // Configuration for signature in the top section
     signature: {
         // Viewbox of the signature SVG
@@ -68,33 +68,17 @@ const CommonConfig = {
         c12.1-4.7,24.1-9.4,36.3-13.7c10.6-3.7,21.4-7.1,32.3-9.9`,
 
     },
-    email: 'm.fawaadali98@gmail.com',
+    email: 'marcusmccown@gmail.com',
     // Information for social media accounts
     social: [
         {
-            // Name of the social media platform
-            name: 'GitHub',
-            // Link to your account
-            link: 'https://github.com/9inpachi',
-            // (Optional) Icon of the social media platform
-            // default icon will be used in case of no value
-            icon: Icons['github']
-        },
-        {
             name: 'LinkedIn',
-            link: 'https://linkedin.com/in/fawadaliq'
+            link: 'https://linkedin.com/in/marcus-mccown'
         },
-        {
-            name: 'Facebook',
-            link: 'https://facebook.com/9inpachi'
-        },
-        {
-            name: 'Twitter',
-            link: 'https://twitter.com/9inpachi'
-        },
+       
         {
             name: 'Email',
-            link: 'mailto:m.fawaadali98@gmail.com'
+            link: 'mailto:marcusmccown@gmail.com'
         },
         {
             name: 'CV',
